@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import { motion } from "framer-motion";
 import LazyLoad from 'react-lazy-load';
 import { useInView } from "react-intersection-observer";
-import Experiences from "./experiences"; // Rename the import to match the component's file name
+import Experiences from "./Experiences"; // Rename the import to match the component's file name
 
 function Skills() {
   const [ref, inView] = useInView({ triggerOnce: true });
