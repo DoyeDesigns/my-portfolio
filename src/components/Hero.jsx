@@ -6,7 +6,7 @@ function HeroSection() {
   <div className="hero-content text-center flex flex-col">
     <div className="avatar">
         <div className="w-32 rounded-full ring ring-[#a992f7] ring-offset-base-100 ring-offset-2">
-            <img src="src/assets/photo_5931572259703601817_x.jpg" />
+            <img src="./src/assets/photo_5931572259703601817_x.jpg" />
         </div>
     </div>
 
@@ -16,16 +16,16 @@ function HeroSection() {
         <p className="py-6">Provident cupiditate voluptatem et in. Quaerat.</p>
         <div className="w-31/2 flex justify-center gap-4 mb-8">
             <span className="social-link">
-                <a href='' className="hover:cursor-pointer"><img src="src/assets/icons8-twitterx.svg" className="w-7"/></a>
+                <a href='' className="hover:cursor-pointer"><img src="./src/assets/icons8-twitterx.svg" className="w-7"/></a>
             </span>
             <span className="social-link">
-                <a href='' className="hover:cursor-pointer"><img src="src/assets/icons8-github (3).svg" className="w-7"/></a>
+                <a href='' className="hover:cursor-pointer"><img src="./src/assets/icons8-github (3).svg" className="w-7"/></a>
             </span>
             <span className="social-link">
-                <a href='' className="hover:cursor-pointer"><img src="src/assets/icons8-whatsapp.svg" className="w-7"/></a>
+                <a href='' className="hover:cursor-pointer"><img src="./src/assets/icons8-whatsapp.svg" className="w-7"/></a>
             </span>
             <span className="social-link">
-                <a href='' className="hover:cursor-pointer"><img src="src/assets/icons8-linkedin (1).svg" className="w-7"/></a>
+                <a href='' className="hover:cursor-pointer"><img src="./src/assets/icons8-linkedin (1).svg" className="w-7"/></a>
             </span>
         </div>
         <div className="flex justify-center gap-8">
